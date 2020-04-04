@@ -1,0 +1,89 @@
+body {
+
+}
+
+a {
+  text-decoration: none;
+}
+
+#home {
+  background-image: url("../images/jumbotronGif.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #;
+  color: #fff;
+  padding: 280px 25px;
+  text-align: center;
+  font-size: 32px;
+}
+
+#home .btn {
+  font-size: 24px;
+}
+
+#home .highlight{
+  color: #b43757;
+}
+
+#home .btn:hover {
+  border: 1px solid #fff;
+  background-color: #04c2c9;
+  color: #fff;
+  transition: all 0.5s;
+}
+
+h1 {
+  text-align: center;
+}
+
+#about {
+  margin: 10px auto 45px auto ;
+}
+
+h5 {
+  padding: 50px 0;
+}
+
+.progress-bar-items {
+  padding: 15px 0;
+}
+
+.card {
+  padding: 0 10px;
+  margin: auto 30px 20px 30px;
+}
+
+.navbar {
+  margin-bottom: 0;
+  background-color: #191970;
+  color: #fff;
+}
+
+.page-footer {
+  background-color: #191970;
+  color: #fff;
+}
+
+.btn-floating {
+  color: #fff;
+}
+
+.page-footer .btn-fb:hover {
+  background-color: #3b5998;
+  color: #fff;
+}
+
+.page-footer .btn-tw:hover {
+  background-color: #00acee;
+  color: #fff;
+}
+
+.page-footer .btn-li:hover {
+  background-color: #0e76a8;
+  color: #fff;
+}
+
+.page-footer .btn-gh:hover {
+  background-color: #211f1f;
+  color: #fff;
+}
